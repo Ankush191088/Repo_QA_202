@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "fG4U1BF2VQof5DzbdVTOWH",
+    "name" : "Admin_202",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Test Project for Source Control Lab",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
